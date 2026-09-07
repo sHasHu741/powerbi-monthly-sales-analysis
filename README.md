@@ -26,6 +26,8 @@ This project analyzes one-year monthly sales performance to identify seasonal pa
 
 ### Dashboard
 The dashboard includes a line chart visualizing monthly revenue trends across the year.
+ ![Sales Overview](Overview.png)
+ ![Monthly Trend](Monthly-trend-overview.png)
 
 ### Key Insight
 Sales peaked in May, indicating seasonal demand, while September recorded the lowest sales, suggesting a post-peak demand slowdown.
